@@ -10,3 +10,6 @@
 - **KPI 1** 3,838,352,700
 - **KPI 2** 2,940,774,429
 - **KPI 3** 51.26%
+
+## Link to dashboard
+https://public.tableau.com/app/profile/sarushan.thiyakumar/viz/Covid-19GlobalVaccineTracker_16739762230090/CovidVaccineTracker?publish=yes
