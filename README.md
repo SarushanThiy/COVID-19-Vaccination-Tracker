@@ -12,4 +12,4 @@
 - **KPI 3** 51.26%
 
 ## Link to dashboard
-https://public.tableau.com/app/profile/sarushan.thiyakumar/viz/Covid-19GlobalVaccineTracker_16739762230090/CovidVaccineTracker?publish=yes
+https://public.tableau.com/app/profile/sarushan.thiyakumar/viz/Covid-19GlobalVaccineTracker_16739762230090/CovidVaccineTracker
